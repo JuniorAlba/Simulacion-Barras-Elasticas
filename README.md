@@ -1,4 +1,4 @@
-# Simulación Dinámica de Reticulado Elástico — MATLAB
+# Simulación Dinámica de Reticulado Elástico — GNU Octave
 
 Simulación numérica de la respuesta dinámica de una estructura plana compuesta por barras
 elásticas conectadas en nodos articulados. El sistema parte del reposo, se le aplica una
@@ -30,7 +30,7 @@ Dado un reticulado de 15 nodos y 26 barras (Caso 12 de la cátedra), el programa
 
 | Componente | Detalle |
 |---|---|
-| Lenguaje | MATLAB |
+| Lenguaje | GNU Octave |
 | Integración numérica | `ode23` con tolerancias configurables |
 | Visualización | Gráficas 2D, animaciones GIF |
 | Dominio | Mecánica del Continuo, análisis estructural |
@@ -47,4 +47,6 @@ Dado un reticulado de 15 nodos y 26 barras (Caso 12 de la cátedra), el programa
 
 ## Autores
 
-*Mecánica del Continuo — FICH, UNL*
+Hugo J. Albarenque
+
+*Ingeniería en Informática - FICH, UNL*
